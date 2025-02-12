@@ -3,7 +3,7 @@ const plugin = require('tailwindcss');
 /** @type {import('tailwindcss').Config} */
 import plugin from 'tailwindcss/plugin';
 module.exports = {
-  content: ['./src/**/*.{index.html,js}'],
+  content: ['./src/**/*.{html,js}'],
   theme: {
     container: {
       center: true,
