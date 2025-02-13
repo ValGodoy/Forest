@@ -1022,8 +1022,8 @@ video {
   background-color: rgb(3 5 4 / 0.6);
 }
 
-.bg-\[url\(\'\.\/img\/padrao\.svg\'\)\] {
-  background-image: url('./img/padrao.svg');
+.bg-\[url\(\'\.\/src\/img\/padrao\.svg\'\)\] {
+  background-image: url('./src/img/padrao.svg');
 }
 
 .bg-gradient-to-t {
